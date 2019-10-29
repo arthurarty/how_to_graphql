@@ -9,7 +9,9 @@
 #### How to set up.
 
 - Clone the repo.
+- Change directory to `how_to_graphql`.
 - Activate virturalenv.
+- Change directory to `hackernews`.
 - Install requirements using the command. `pip install -r requirements.txt`.
 - Run migrations using the command. `python manage.py migrate`.
 - Run application. `python manage.py runserver`.
